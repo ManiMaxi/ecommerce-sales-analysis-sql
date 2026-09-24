@@ -1,0 +1,76 @@
+product_id,product_name,category,cost_price,selling_price
+1007,,Electronics,847.0,1100
+1061,,Books & Stationery,4612.0,8080
+1019,Lunch Box,Home & Kitchen,2897.0,4560
+1031,Men Casual Shirt,fashion,5287.0,9170
+1021,,Home & Kitchen,4472.0,5530
+1013,WiFi Router,Electronics,133.0,220
+1011,Phone Charger,Electronics,3516.0,4590
+1054,Hair Dryer,Beauty & Personal Care,1213.0,1830
+1033,Running Shoes,Fashion,1796.0,2910
+1023,Table Lamp,Home & Kitchen,,4290
+1005,Wireless Earbuds,Electronics,4547.0,5510
+1003,USB-C Hub,Electronics,1223.0,2040
+1063,NOTEBOOK SET,Books & Stationery,1018.0,1660
+1020,frying pan,Home & Kitchen,435.0,720
+1065,Desk Planner,Books & Stationery,5330.0,7400
+1044,Travel Duffel Bag,Fashion,1808.0,3230
+1027,Kitchen Scale,Home & Kitchen,5497.0,7200
+1050,Sunscreen,Beauty & Personal Care,4678.0,7140
+1022,Coffee Maker,Home & Kitchen,3180.0,3830
+1008,Laptop Stand,electronics,4219.0,6630
+1032,Women Kurta,Fashion,1412.0,1990
+1004,Power Bank,Electronics,5623.0,9380
+1070,Office File Set,Books & Stationery,1543.0,2320
+1068,Highlighter Pack,Books & Stationery,5995.0,10570
+1055,Lip Balm,Beauty & Personal Care,824.0,1380
+1057,Conditioner,Beauty & Personal Care,1390.0,2370
+1030,Desk Organizer,Home & Kitchen,3193.0,4290
+1064,Gel Pen Pack,Books & Stationery,4478.0,7500
+1015,LED Monitor,Electronics,2867.0,3850
+1067,Calculator,Books & Stationery,3796.0,4370
+1073,Power BI Guide,Books & Stationery,4238.0,6680
+1012,Gaming Mouse,Electronics,4907.0,6600
+1048,Shampoo,Beauty & Personal Care,5346.0,7870
+1052,Perfume,Beauty & Personal Care,4860.0,6950
+1026,Wall Clock,Home & Kitchen,5851.0,7010
+1006,Mechanical Keyboard,Electronics,3536.0,4150
+1024,Bedsheet Set,Home & Kitchen,5146.0,9110
+1043,Hoodie,Fashion,3366.0,4500
+1001,Wireless Mouse,Electronics,5318.0,6530
+1018,Water Bottle,Home & Kitchen,3192.0,3890
+1037,Sports T-Shirt,Fashion,2085.0,2640
+1071,Business Analytics Book,Books & Stationery,951.0,1670
+1014,Fitness Band,Electronics,,2270
+1029,Nonstick Tawa,Home & Kitchen,1987.0,3490
+1058,Body Wash,beauty & personal care,3538.0,5550
+1040,Sneakers,Fashion,1879.0,3060
+1042,Cotton Saree,Fashion,342.0,590
+1002,Bluetooth Speaker,Electronics,2333.0,3080
+1041,Formal Belt,Fashion,538.0,700
+1009,Smart Watch,Electronics,4677.0,6030
+1017,Mixer Grinder,Home & Kitchen,2837.0,3470
+1053,trimmer,Beauty & Personal Care,1876.0,3470
+1060,Electric Toothbrush,Beauty & Personal Care,3914.0,5950
+1028,Vacuum Flask,Home & Kitchen,2450.0,4510
+1038,Handbag,Fashion,3188.0,4270
+1035,Wallet,Fashion,5388.0,6470
+1034,Backpack,Fashion,5829.0,10530
+1047,moisturizer,Beauty & Personal Care,4169.0,5950
+1062,Data Analytics Handbook,,174.0,280
+1072,Excel Guide Book,BOOKS & STATIONERY,2524.0,4390
+1016,Electric Kettle,Home & Kitchen,1843.0,3350
+1051,Body Lotion,Beauty & Personal Care,4868.0,7060
+1049,HAIR SERUM,Beauty & Personal Care,2249.0,2810
+1039,Denim Jeans,Fashion,5322.0,8680
+1025,Rice Cooker,Home & Kitchen,3042.0,4730
+1036,sunglasses,Fashion,5281.0,6710
+1059,Makeup Kit,Beauty & Personal Care,3232.0,4580
+1045,Cap,Fashion,4726.0,8330
+1010,Portable SSD,electronics,5403.0,8870
+1075,Journal,Books & Stationery,1403.0,2140
+1066,Sticky Notes Set,BOOKS & STATIONERY,2484.0,3610
+1046,Face Wash,Beauty & Personal Care,2657.0,3450
+1069,Sketch Book,books & stationery,2237.0,4090
+1074,Whiteboard Marker Set,,1332.0,1880
+1056,Face Serum,Beauty & Personal Care,978.0,1230
