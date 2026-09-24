@@ -1,3 +1,5 @@
+USE ecommerce_analysis;
+
 -- Data Cleaning
 
 select * from customers;
